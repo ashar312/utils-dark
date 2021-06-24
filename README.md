@@ -1,7 +1,7 @@
 # How To Install
 
 ```sh
-npm add utils-dark
+npm i utils-dark
 ```
 
 # How To Use
